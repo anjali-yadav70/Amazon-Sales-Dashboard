@@ -38,6 +38,6 @@ Add profit margins and forecast charts
 Add drill-through for each city or category
 Add customer demographic visuals
 Add automated refresh using SQL/Excel live sources
-****Anjali Yadav**
-Aluy7021@gmail.com
-https://www.linkedin.com/in/anjali-yadav-34a46a384/***
+**Anjali Yadav**
+**Aluy7021@gmail.com**
+**https://www.linkedin.com/in/anjali-yadav-34a46a384/***
