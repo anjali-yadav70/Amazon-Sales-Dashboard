@@ -39,5 +39,8 @@ Add drill-through for each city or category
 Add customer demographic visuals
 Add automated refresh using SQL/Excel live sources
 **Anjali Yadav**
+
 **Aluy7021@gmail.com**
 **https://www.linkedin.com/in/anjali-yadav-34a46a384/***
+<img width="1198" height="676" alt="image" src="https://github.com/user-attachments/assets/11c333be-f3f5-4f38-b65f-ec5142891e03" />
+
